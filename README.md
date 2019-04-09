@@ -1,5 +1,7 @@
 # app-web-vue
 
+Aplicação desenvolvida ultilizando o Vue para consumir a apiRest de produtos.
+
 > A Vue.js project
 
 ## Build Setup
